@@ -1,11 +1,10 @@
 {
-  "version": "2.3.9",
+  "version": "2.4.1",
   "release_date": "2026-08-11",
   "download_url": "#",
   "changelog": [
-    "បន្ថែម Tab ថ្មី: Convert Size & Merge VDO",
-    "បន្ថែម Button Update Version (ទាញយក និងតម្លើងក្នុងកម្មវិធីផ្ទាល់)",
-    "បង្កើនល្បឿន Button បង្កើតសំឡេង (បង្កើតច្រើនបន្ទាត់ព្រមគ្នា)",
-    "ជួសជុល Button វិភាគតេស្ត (AI Gemini) ឱ្យប្តូរសំឡេងបានត្រឹមត្រូវ"
+    "New feature added",
+    "Bug fixes",
+    "Performance improvements"
   ]
 }
