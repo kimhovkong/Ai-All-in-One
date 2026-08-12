@@ -3,8 +3,10 @@
   "release_date": "2026-08-12",
   "download_url": "https://github.com/kimhovkong/Ai-All-in-One/releases/download/Ai.All.in.One.Pro.Setup.2.4.1.exe/Ai.All.in.One.Pro.Setup.2.4.1.exe",
   "changelog": [
-    "New feature added",
-    "Bug fixes",
-    "Performance improvements"
+    "ប្តូរឈ្មោះ Tab ទៅជា Convert & Merge",
+    "កំណត់សិទ្ធិសាកល្បង ១ ដង សម្រាប់ Tab SRT និង Convert & Merge (បើមិនទាន់ Activate)",
+    "ជួសជុលកម្មវិធីគាំង/យឺត — Tab នីមួយៗចាប់ផ្តើមតែពេលបើកប្រើ",
+    "បង្កើនល្បឿនតារាងអក្សររត់ក្នុង Samray (មិន read localStorage រាល់បន្ទាត់ទៀតទេ)",
+    "បង្កើនល្បឿន Button បង្កើតសំឡេង និងជួសជុល AI Gemini voices"
   ]
 }
