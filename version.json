@@ -1,11 +1,8 @@
 {
-  "version": "2.4.3",
-  "release_date": "2026-08-13",
+  "version": "2.4.5",
+  "release_date": "2026-08-18",
   "download_url": "https://github.com/kimhovkong/Ai-All-in-One/releases/download/Version.2.4.3/Ai.All.in.One.Pro.Setup.2.4.3.exe",
   "changelog": [
-    "ប្តូរឈ្មោះ Tab ទៅជា Convert & Merge",
-    "ជួសជុលកម្មវិធីគាំង/យឺត — Tab នីមួយៗចាប់ផ្តើមតែពេលបើកប្រើ",
-    "បង្កើនល្បឿនតារាងអក្សររត់ក្នុង Samray (មិន read localStorage រាល់បន្ទាត់ទៀតទេ)",
-    "បង្កើនល្បឿន Button បង្កើតសំឡេង និងជួសជុល AI Gemini voices"
-  ]
+    "have a new function",
+      ]
 }
