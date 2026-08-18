@@ -1,8 +1,13 @@
 {
   "version": "2.4.5",
-  "release_date": "2026-08-18",
-  "download_url": "https://github.com/kimhovkong/Ai-All-in-One/releases/download/Version.2.4.3/Ai.All.in.One.Pro.Setup.2.4.3.exe",
+  "release_date": "2026-08-17",
+  "download_url": "https://github.com/kimhovkong/Ai-All-in-One/releases/download/Ai.All.in.One.Pro.Setup.2.4.5.exe/Ai.All.in.One.Pro.Setup.2.4.5.exe",
   "changelog": [
-    "have a new function",
-      ]
+    "បន្ថែម ប៊ូតុង 💾 Save Project ក្នុង Tab សារ៉ាយ — រក្សាទុកវីដេអូ, សំឡេង, អក្សររត់, Overlay និងការកំណត់ទាំងអស់ជាប់ជាមួយគ្នា",
+    "Save Template រក្សាទុកជាប់ជាមួយ Image Sequence (រូបភាពមិនរលាយពេលបិទកម្មវិធីទៀតទេ)",
+    "License Key + UID ប្រើបានតែ ១ Device — Device ដែលប្រើមុនត្រូវ Logout ចេញស្វ័យប្រវត្តិ",
+    "ជួសជុលប៊ូតុង Close (✕) នៅ Panel គំរូដែលបានរក្សាទុក និង Panel កំណត់អក្សរ",
+    "រៀបចំ Layout ថ្មីក្នុងផ្ទាំង Software Activation & Plans ឱ្យអានស្រួលជាងមុន",
+    "លុប icon Settings ដែលមិនប្រើចេញពី Toolbar"
+  ]
 }
